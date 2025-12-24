@@ -1,0 +1,17 @@
+const userId = 555777444
+let userEmail = "ask@google.com"
+var userPassword = "12345"
+userCity = "Peshawar"
+
+//userId = 574 //not allowed bcz variable ty const
+
+//print one variable on console
+console.log(userId);
+console.log(userEmail);
+
+//different variables print krny k liye
+console.table([userId, userEmail, userPassword, userCity])
+
+/*
+var k sath variable ka scope ka issue hota hy ab new let se variable initialize kiya jata hy
+*/
