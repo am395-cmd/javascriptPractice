@@ -59,7 +59,7 @@
 // let str1 = "Hello"
 // let str2 = "Pakistan"
 
-// let str3 = str1 + str2;
+// let str3 = str1 + str2; //cocatination of strings
 
 // console.log(str3);
 
