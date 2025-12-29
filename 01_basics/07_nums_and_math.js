@@ -33,4 +33,4 @@ console.log((Math.random()*10)+1);    //recommended method
 
 const min = 10
 const max = 30
-console.log(Math.floor(Math.random()*(max - min + 1))+ min); //understand later
+console.log(Math.floor(Math.random()*(max - min + 1)) + min); //random se 0 to 1 aay ga number phr range set krny k liye (max - min + 1) multiply kiya phr min add kr k usko minimum value pr set kiya
