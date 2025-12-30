@@ -18,9 +18,22 @@
 // console.log(mySpecificDate.toDateString());
 
 // let checkDate = new Date("02-01-1989")       //day, month, date, year
-// console.log(checkDate.toDateString());
-// console.log(checkDate.toLocaleDateString());
+// // console.log(checkDate.toDateString());
+// // console.log(checkDate.toLocaleDateString());
 
-let checkTimeStamp = Date.now()
+// let checkTimeStamp = Date.now()
 
-console.log(checkTimeStamp);
+// console.log(checkTimeStamp);
+// console.log(checkDate.getTime());
+
+// console.log(Math.floor(Date.now()/1000));
+
+// let newDates = new Date()
+// console.log(newDates);
+// console.log(newDates.getMonth() + 1);
+// console.log(newDates.getDay());
+
+// newDates.toLocaleString('default', {
+//     weekday: "long",
+//     timeZone: ''
+// })
